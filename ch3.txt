@@ -1,19 +1,20 @@
 Your new character Alice leaves the dark alley and a moment later she is out on a much bigger street. While you try to faithfully play your character at first, a moment later you forget about it as you stare at your environment in awe. Most of the houses seem to be shops; there are weapons, armor, clothes, food and a lot of small miscellaneous stores. They are all two stories high, the bottom with wares on display and the top apparently residential rooms for the shop owners. While this looks like a busy prestigious city center the place is remarkably quiet. The stores are all dark, but some of the second floors have lights on. You marvel at the details, even seeing people walk around in the rooms via the shadows they cast, and it's not just an animation loop either. It feels real, but it also seems like people are not very active during the night here. Then you hear faint voices in the distance and wander in that direction. Soon you find the night life area of this place, some taverns with music playing inside, a lot of infrequent laughter and signs advertising women's services in suggestive pictograms. You'll definitely have to check those out. Despite being a girl yourself you still like girls and wouldn't mind having one explore your new body with you. You're much less in the mood for horny men being pigs towards you, even though that would probably be better for your coin pouch.
 
+---
+
 "Hey you! What are you doing out? Night has fallen!" You spin around and duck instinctively. There is what seems to be a guard looking at you, his appearance that of a knight in full plate armor. He it pointing a pike at you and starts walking in your direction. You quickly try to decide what to do. You could wait and have the guard yell at you for being out, explain to him that you're from out of town and get an introduction to the world. You're pretty sure that's what you're supposed to do at least, but you also don't like to get railroaded. Your mischievous nature breaks through and you decide to skip the tutorial. You turn and run down the street, unlike in your last life feeling quick on your feet, able to run much faster for much longer before running out of breath. "HEY! STOP!" you hear him yelling behind you along with the loud clanking of iron boots on cobble stone, but it soon becomes faint and you slow down.
 
 You seem to have left the nightlife area; the small densely packed houses replaced by larger houses; stables and what look like barracks. You see guards in the distance and stick to the walls, hiding as best as you can in this open area. Unlike the previous guards these also wear a helmet that seems to reduce their peripheral vision enough that they don't spot you right away. *I just spawned and am already running from the law* you think to yourself, your heart beating a little faster at the thought of getting caught. You check out the building in front of you more thoroughly now. It is made of massive stone and four stories high. The small windows, a steel door in the center and the two heavily armored guards make this look more like a fortress than a building. *I wonder what they have in there that's worth guarding.* Just as you think that you get another popup.
 
-<div align="center">
-***Quest: Droan Fortress Treasury***
-*This heavily guarded treasury houses riches not meant for the common folk. If you were to steal from it you would make a name for yourself in addition to the money.*
-***Success:*** *Enter the treasury, steal something and leave*
-***Reward:*** *+1 level of infamy, 10000 experience*
-***Optional:*** *Do not alert the guards*
-***Failure:*** *Leave empty-handed*
-***Note:*** *You are below the minimum recommended level for this quest.*
-***ACCEPT/REFUSE?***
-</div>
+> ***Quest: Droan Fortress Treasury***
+> *This heavily guarded treasury houses riches not meant for the common folk.*
+> *If you were to steal from it you would make a name for yourself in addition to the money.*
+> ***Success:*** *Enter the treasury, steal something and leave*
+> ***Reward:*** *+1 level of infamy, 10000 experience*
+> ***Optional:*** *Do not alert the guards*
+> ***Failure:*** *Leave empty-handed*
+> ***Note:*** *You are below the minimum recommended level for this quest.*
+> ***ACCEPT/REFUSE?***
 
 You didn't expect that. It's as if the game read your mind. It also warned you that you would likely fail, but you don't particularly mind. You're curious now and want to give it a shot. You can always log out if it gets too intense. Having made up your mind you accept the quest. You half expected a quest marker to appear telling you where to go, but nothing happens besides the popup disappearing. You're a bit at a loss for how to go about this. You're pretty sure there is no way you can break down a huge iron door. You're not even sure you could take out a guard. Scaling the building seems out of the question as well; the bottom floor is smooth stone without windows and you lack a roped hook. *Maybe I can find one?* You have no idea where to look. Buying one from one of the shops seems reasonable, but that would mean delaying the quest until tomorrow and you don't feel like waiting.
 
@@ -25,7 +26,7 @@ Your eyes open and feel enlightened. *That's it!* You open the door of the stabl
 
 "Time to go" you hear your girly voice say only to yourself, but some of the horses get up and look at you. You wonder if that is just a coincidence, but don't have time to dwell on it. You quickly run outside, ducking and sliding around corners until you find a spot where you can see the treasury as well as the stables in some distance. You wonder if maybe the fire just burned out, but then you hear the horses darting out of the stables, their iron-clad hooves resounding in the night. Then you see the guards shift in front of the treasury door, looking at the stables and seeing flames licking up over the roof. "FIRE!" you hear one of them scream and then he hammers against the door with his iron gauntlet. A moment later you hear the ringing of alarm bells as more and more rooms in the treasury light up and guards scramble around, trying to organize themselves. Most of them must have been asleep. You smile at the chaos you caused and almost want to call it a successful day, but a quest update interrupts you.
 
-***Optional:*** ~~*Do not alert the guards*~~ **Objective failed**
+> ***Optional:*** ~~*Do not alert the guards*~~ **Objective failed**
 
 *Oh come on!* you inwardly complain. You can see how you very much alerted the guards, on purpose, but they were alerted to a fire, not to you. It totally shouldn't count. Though re-reading the description you have to admit it's fairly unambiguous. Turning your attention back to the building you see another guard step out, one without a helmet and without a pike. Instead he has a sword and a red cape over his armor. He is followed by dozens of guards assembling in front of the building. They are fairly far away, but he screams loud enough that you have no trouble hearing. "Group Heidegger! Surround the stables! Do not let other buildings catch fire! Group Asmus! Grab any buckets you can find and bring water from the cistern! Group Koffka! Go catch your horses." You expected a "Yes Sir!", but none came. Instead the guards just spread out, splitting off towards the stables as well as other directions. Other guards start barking orders as well and you begin to feel uncomfortable about how much trouble you would be in if you ever got caught.
 
