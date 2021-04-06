@@ -40,7 +40,7 @@ This is your last starting skill. It's your highest Affinity, the thing you'll b
 
 You consider logging out and calling it early. You hadn't planned on it, but now you feel like going back to the unofficial Realm forum and leaving a 1 star review after all. You close your eyes, calming yourself down. *It's fine. I'll just look around, enjoy the graphics, talk to some NPCs and maybe do a fetch-quest and then I'll be able to make a proper character.* All the blinking prompts are gone, but now that you messed around with the interface for so long you might as well get a quick overview over your character. You concentrate on yourself and a moment later you see your character sheet.
 
-![Alice Character Sheet](Alice ch2.png)
+![Alice Character Sheet](https://cdn.discordapp.com/attachments/828534005569159168/828534045922951178/Alice_ch2.png)
 
 You look through the character sheet and somehow understand what all of it means. *I didn't realize I was an Elf.* You touch your ears and they are a bit pointy indeed, but it feels like your ears have always been a little pointy. You're not sure what other differences there are between Elfs and Humans, but you know a way to find out, concentrating on the words in the character sheet.
 
