@@ -29,3 +29,5 @@ You look over other skills and find various for magic, armor, weapons, crafting 
 There is a ginormous 'no' and a tiny 'yes' button underneath the big red warning. Apparently you are not supposed to make a random character. Or the description is just overly dramatic like all the other descriptions in this game. "Shoddy writing" you mumble as you press the yes button. One after another you see the popup menu, the character creation screens and your character fade away. Just as you wonder if the game crashed your consciousness follows the menus, fading away into darkness.
 
 A moment later a formless entity does something that can closest be described as a chuckle. "The Chosen has chosen not to choose." The chuckle grows into a laughter. "This will be interesting!"
+
+[next](ch2.md)

@@ -61,3 +61,5 @@ Well, that's something. Health regeneration is not very exciting but definitely 
 **Divine Protection: This effect is granted while you are in your respawn area. While you are here nobody else can enter or harm you in any way.**
 
 *Oh, so this is not me being protected by the gods, it's just the default spawn protection.* You sigh. You were really hoping for something more interesting related to what is supposed to be your Patron. *Also way to be gamey. They really should improve on the immersion aspect of the writing. Maybe just call it ... something that ties into the lore and explains why respawning is a thing here.* No matter. You feel like you got the gist of your character's stats and are ready to head out. It's finally time to play the game!
+
+[next](ch3.md)
