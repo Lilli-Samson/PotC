@@ -6,15 +6,15 @@ Your new character Alice leaves the dark alley and a moment later she is out on 
 
 You seem to have left the nightlife area; the small densely packed houses replaced by larger houses; stables and what look like barracks. You see guards in the distance and stick to the walls, hiding as best as you can in this open area. Unlike the previous guards these also wear a helmet that seems to reduce their peripheral vision enough that they don't spot you right away. *I just spawned and am already running from the law* you think to yourself, your heart beating a little faster at the thought of getting caught. You check out the building in front of you more thoroughly now. It is made of massive stone and four stories high. The small windows, a steel door in the center and the two heavily armored guards make this look more like a fortress than a building. *I wonder what they have in there that's worth guarding.* Just as you think that you get another popup.
 
-> ***Quest: Droan Fortress Treasury***
-> *This heavily guarded treasury houses riches not meant for the common folk.*
-> *If you were to steal from it you would make a name for yourself in addition to the money.*
-> ***Success:*** *Enter the treasury, steal something and leave*
-> ***Reward:*** *+1 level of infamy, 10000 experience*
-> ***Optional:*** *Do not alert the guards*
-> ***Failure:*** *Leave empty-handed*
-> ***Note:*** *You are below the minimum recommended level for this quest.*
-> ***ACCEPT/REFUSE?***
+> ***Quest: Droan Fortress Treasury***  
+> *This heavily guarded treasury houses riches not meant for the common folk.*  
+> *If you were to steal from it you would make a name for yourself in addition to the money.*  
+> ***Success:*** *Enter the treasury, steal something and leave*  
+> ***Reward:*** *+1 level of infamy, 10000 experience*  
+> ***Optional:*** *Do not alert the guards*  
+> ***Failure:*** *Leave empty-handed*  
+> ***Note:*** *You are below the minimum recommended level for this quest.*  
+> ***ACCEPT/REFUSE?***  
 
 You didn't expect that. It's as if the game read your mind. It also warned you that you would likely fail, but you don't particularly mind. You're curious now and want to give it a shot. You can always log out if it gets too intense. Having made up your mind you accept the quest. You half expected a quest marker to appear telling you where to go, but nothing happens besides the popup disappearing. You're a bit at a loss for how to go about this. You're pretty sure there is no way you can break down a huge iron door. You're not even sure you could take out a guard. Scaling the building seems out of the question as well; the bottom floor is smooth stone without windows and you lack a roped hook. *Maybe I can find one?* You have no idea where to look. Buying one from one of the shops seems reasonable, but that would mean delaying the quest until tomorrow and you don't feel like waiting.
 

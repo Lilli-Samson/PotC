@@ -20,19 +20,19 @@ You curse the stupid thing for not saving you, but it wouldn't have anyways. The
 
 Behind him you hear the heavy footsteps of multiple guards. Apparently he was bluffing about the 10 guards behind him. Or maybe he was stretching the meaning of 'behind' really thin. He steps into the door, two guards follow and you can see another five at least who try to see what is happening, but unable to fit in the small room. Your fight or flight instinct is thoroughly unhelpful as neither is an option, so you opt for the menu trying to log out.
 
-> Ethereal Dagger
-> Artifact: This weapon was created before this age
-> Properties: Ignores armor, Summoning, Soulbound
-> Do you wish to bind this weapon to your soul?
-> ACCEPT/REFUSE
+> Ethereal Dagger  
+> Artifact: This weapon was created before this age  
+> Properties: Ignores armor, Summoning, Soulbound  
+> Do you wish to bind this weapon to your soul?  
+> ACCEPT/REFUSE  
 
 That was not the menu you wanted, but you hit accept anyways. *Oh, this explains why it vanished! Can't attack with a soulbound weapon without binding to it. That would make the property pointless.* The guard captain meanwhile pushed your cloak back, revealing your elven face, pointy ears and raven-black hair. "How the hell did you get past the gate, tree hugger?" The other guards laugh, but you don't answer. There is no point. They would do what they want with you without you having any say in it. You are about to reluctantly surrender when you see his eyes leave yours and fixate on the open chest. "What have you done?" he asks you, sadness in his voice. "Wait, isn't this the dagger chest?" one of the guards exclaims. Apparently they are familiar with it. "Give me the dagger" the guard captain says sternly, holding out his gauntleted hand demandingly. You swallow and put the dagger into his hand, only to both watch it vanish. "I knew it. Stupid girl. You could have walked out of here alive, but you just had to bind to it. I'm sorry." He looks down apologetically, but you can see the other guards looking forward to what would come next. "The only way to unbind this dagger is to kill whoever is bound to it." You see his hand go towards his sword and panic.
 
 "Wait!" you yell out, unsure what you could possibly say to save yourself. "If you don't let me go you'll regret it!" Your bluff doesn't even slow him down. In one swift move he draws his sword in the tight room and thrusts it forward, piercing through your armor, piercing just under your ribs, stopping just short of your spine. The world around you seems to slow to a crawl. You take a look at the combat log.
 
-\> Guard Captain Lavrov deals 91 damage
-\> Guard Captain Lavrov deals a lethal wound, reducing your maximum Health to 0
-\> Alice uses Mind Overdrive
+\> Guard Captain Lavrov deals 91 damage  
+\> Guard Captain Lavrov deals a lethal wound, reducing your maximum Health to 0  
+\> Alice uses Mind Overdrive  
 
 You can see your health bar dropping. That was probably intended as a cool effect, but now it means you're technically still alive for another half second or so that it takes for the animation to finish, a half second that your ability stretched out to what feels like ten long seconds already. You can also see your Concentration draining, but it's draining slower than your Health, so it doesn't matter. The pain in your belly is excruciating, you cannot breathe and as your Health drops you feel increasingly sick. *Bastard* you think. Your arm feels heavy and sluggish, just like the rest of your body, but you force it up and forward. Your muscles are aching, straining against their own momentum, racing the Health bar. The world goes red around you, signaling that you're very close to death. Your fingers grip around the dagger that you managed to summon into your hand and feel it find purchase in something soft. With your last strength you twist the dagger and your world goes dark.
 
