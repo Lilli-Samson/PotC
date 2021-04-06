@@ -1,10 +1,10 @@
 Standing in front of the stairs you close the door to the corridor behind you and a moment later you can hear the guards that followed you from outside arrive, panting and then arguing with the other guards at the doors.
 
-"Where is he?"
-"Where is who?"
-"The guy in the cloak!"
-"What guy in what cloak?"
-"THE GUY IN THE CLOAK THAT JUST RAN IN HERE!"
+"Where is he?"  
+"Where is who?"  
+"The guy in the cloak!"  
+"What guy in what cloak?"  
+"THE GUY IN THE CLOAK THAT JUST RAN IN HERE!"  
 
 You can't help but chuckle at them and then take a moment to think about what to do now. The options are going up or down the stairs and you have no clue which one would lead you to treasure or an escape. You don't have time to meditate on this, so you have to use your other skill. Your fingers slip into your coin pouch to produce a gold coin; a crown on one side and a castle on the other. *Close enough. Crown is down, castle is up!* You flip the coin into the air, catch it and slam it against the back of your hand. *Ouch.* You peek at the coin and see a crown. You consider flipping it again, preferring the stairs going up that are faintly illuminated by star light through the small windows over the ominous dark stairs going down. Heightened Elf senses or not, you can barely see down there and you evidently don't have dark vision. But you had already thrown the coin and the arguing had been replaced by clanking on the stone floor and orders being barked. The voice sounds familiar, a new arrival to the six guards and not one to bicker. Then you remember the voice, it's from the guy in the red cape. You don't know why exactly, but the thought of him searching for you makes you nervous; unlike the rest of the guards you don't think you can trick him simply by hiding behind the next best door. Also his sword would be a lot quicker than their pikes.
 
