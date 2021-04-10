@@ -13,13 +13,16 @@ But that is enough fun and perving on your virtual body for today. You concentra
 *Wait, what?* You stare at the error message, having difficulty dealing with its gravity. It's telling you you're stuck here, but that's not possible. Immersion or not, games are not supposed to keep you prisoner in them. *Stupid buggy alpha* you complain. You sigh and wonder what to do now. Finally you decide to sit back down and go through the nagging notifications, hoping to find a way to get out.
 
 **Congratulations! You gained level 6 in Stealth**
-**Congratulations! You gained level 6 in Meditation**
-**Congratulations! You gained level 6 in Doctrine of Kharn**
-**Congratulations! You gained level 7 in Stealth**
-**Congratulations! You gained level 1 in Bluffing**
 
-**Bluffing is the skill of having extraordinary claims taken at face value. A master of Bluffing is able to make whole armies stand down using only a few well-chosen words.**
-**Bluffing is a subskill of Persuation. You are now unskilled in Bluffing.**
+**Congratulations! You gained level 6 in Meditation**
+
+**Congratulations! You gained level 6 in Doctrine of Kharn**
+
+**Congratulations! You gained level 7 in Stealth**
+
+**Congratulations! You gained level 1 in Bluffing**
+Bluffing is the skill of having extraordinary claims taken at face value. A master of Bluffing is able to make whole armies stand down using only a few well-chosen words.
+Bluffing is a subskill of Persuation. You are now unskilled in Bluffing.
 
 > #YOU HAVE DIED
 > 
@@ -31,18 +34,19 @@ But that is enough fun and perving on your virtual body for today. You concentra
 > #***You have completed a Quest!***
 > 
 > ***Droan Fortress Treasury:***
-> ***Requirement:*** *Enter the treasury, steal something and leave* -- ***Success**, stole Ethereal Dagger*
+> ***Requirement:*** *Enter the treasury, steal something and leave* -- **Success**, stole Ethereal Dagger
 > ***Reward:*** *+1 level of infamy, 10000 experience*  
 > ***Additional Rewards:*** *Ethereal Dagger, Kharn's favor*  
 
 **You have earned 3,850 experience for killing 1 Guard Captain.**
 
-> **Your reputation with the Droan Fortress Guards has fallen from neutral to hostile.**
-> *You will now be attacked on sight. Be careful not to make too many enemies; nobody can succeed alone!*
+**Caution! Your reputation with the Droan Fortress Guards has fallen from neutral to hostile.**
+They now view you as an enemy and will attacked on sight. Be careful not to make too many enemies; nobody can succeed alone!
 
 > #***Congratulations! You have advanced to levels 2 through 6!***
 > 
-> *As a Chosen Wood Elf, you have 20 attributes to distribute and your Attractiveness, Senses, Agility and Speed increase by five. You also gain five instances of 25% advancement towards any one Skill. Allocate these within 72 hours or they will be randomly assigned. Honor thy Patron and follow thy heart!*
+> *As a Chosen Wood Elf, you have 20 attributes to distribute and your Attractiveness, Senses, Agility and Speed increase by five. You also gain five instances of 25% advancement towards any one Skill. Allocate these within 72 hours or they will be randomly assigned.*
+> *Honor thy Patron and follow thy heart!*
 
 *Holy crap! That's a huge jump in levels! I guess I really wasn't supposed to succeed at that quest.* You feel like you have abused the system a little, but the system has abused you as well, so it just makes it even. Then you stare at those last two sentences of the message. *Honor your Patron and randomly assign points. Could they be any more obvious?* You wonder if you're supposed to not assign anything in order to keep your Sky Daddy happy, but then remember there is no sure way to worship your Patron. If it was as easy as not assigning points and skills someone would have figured that out by now. Plus you're a little worried to screw up your build even more than you already have. It seems like you're stuck now, at least for a while until your VR system shuts off by itself, so you'll have to make do until then. You know it has a timer and will do a hard break after 8 hours, so it hasn't been that long since you started. It definitely felt longer than that though.
 
