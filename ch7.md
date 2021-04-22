@@ -8,7 +8,7 @@ You wake up with a startled jump before taking a moment to remember where you ar
 
 It was worth a try. Reluctantly you look through your notifications.
 
-**Congratulations! You have reached levels  6 through 9 in Stealth.**
+**Congratulations! You have reached levels  8 through 9 in Stealth.**
 **Congratulations! You have reached levels  1 through 3 in Exhibitionism.**
 Exhibitionism is the Skill of exposing yourself to others in a way that increases both your own and their arousal and desire. Skilled exhibitionists can make anyone blush in unrivaled excitement, including themselves.
 Exhibitionism is a Subskill of Sex.
